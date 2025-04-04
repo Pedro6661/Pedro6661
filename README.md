@@ -1,4 +1,4 @@
-## Hi there, I'm Pedro Batista! 👋
+## Olá, me chamo Pedro Batista! || Hi there, I'm Pedro Batista! 👋
 ![Pedro6661's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro6661&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro6661&theme=midnight-purple&show_icons=true)
 
